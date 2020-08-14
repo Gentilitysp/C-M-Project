@@ -1,0 +1,15 @@
+*{
+    text-decoration: none;
+    list-style: none;
+}
+h1 .title {
+    font-size: 4rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #333;
+}
+
+p .description {
+    font-size: 1.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #333;
+}
