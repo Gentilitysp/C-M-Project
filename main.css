@@ -3,21 +3,33 @@
     list-style: none;
 }
 body {
-    background: purple;
+    background: #776d8a;
     margin: 0;
     padding: 0;
     width: 100%;
     height: 100px;
+    text-align: center;
 }
-h1 .title {
+#title {
     font-size: 4rem;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: #333;
+    color: #f3e6e3;
+    margin-left: 2rem;
 }
 
-p .description {
+#description {
     font-size: 1.5rem;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: #fff;
+    color: #f3e6e3;
 }
 
+#alldform {
+    background-color: #dbe3e5;
+    margin:0 100px 100px 100px ;
+    padding-top: 20px;
+}
+.leftext {
+    font-size: 1.5rem;
+    text-align: left;
+    display: inline-block;
+}
