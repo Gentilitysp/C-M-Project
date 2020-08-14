@@ -28,8 +28,24 @@ body {
     margin:0 100px 100px 100px ;
     padding-top: 20px;
 }
-.leftext {
+.leftext1 {
     font-size: 1.5rem;
     text-align: left;
-    display: inline-block;
+    display: inline;
+}
+.leftext2 {
+    font-size: 1.5rem;
+    text-align: left;
+    display: inline;
+}
+
+
+#checkbox{
+  text-align: left;
+  display: inline-block;
+}
+
+#radio{
+  text-align: left;
+  display: inline-block;
 }
